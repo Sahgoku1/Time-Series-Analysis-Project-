@@ -27,7 +27,7 @@ The analysis includes the following components:
 
 Feel free to contribute, suggest improvements, or provide feedback to enhance this time series analysis project.
 
-# Modeling Volatility of Tesla, Inc. Stock (TSLA) using GARCH
+# Modeling Volatility of Tesla, Inc. Stock (TSLA) using GARCH (problem 2)
 
 This repository contains the analysis and modeling of volatility for Tesla, Inc. (TSLA) stock returns from January 1, 2022, to January 1, 2024, utilizing a Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model.
 
